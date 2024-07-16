@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=codesmith17&label=Profile%20views&color=0e75b6&style=flat" alt="codesmith17" />
 </p>
 
-- 🔭 I’m currently working on Full Stack and Mern Scraping
+- 🔭 I’m currently working on Full Stack Web Developmetn using MERN and also specialized in Scraping using scrapy and Selenium.
 - 🌱 I'm currently playing 'Knowledge Survivor' – figuring out which skills to keep and which ones to vote off the island!
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-rust-seven-58.vercel.app/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nsZ3AZL6AAIDlm9uPim-FQPX-FChz7Em/view?usp=drive_link)
